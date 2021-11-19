@@ -1,3 +1,3 @@
-## Dataset links
-Training dataset : https://datasets.aicrowd.com/default/aicrowd-practice-challenges/public/sudoku/v0.1/train.tar.gz -o data/train.tar.gz. <br>
-Test dataset : https://datasets.aicrowd.com/default/aicrowd-practice-challenges/public/sudoku/v0.1/test.tar.gz -o data/test.tar.gz
+To run the solver::
+    python3 main.py <path_to_image>
+The output will be in output.txt
